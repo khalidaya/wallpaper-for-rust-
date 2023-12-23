@@ -15,40 +15,40 @@
 
   "wall":[
   {"title":"584",
-  "photo":"https://github.com/proman0/admin/blob/main/3713.jpg?raw=true"},
+  "photo":"https://iili.io/JAyeANI.webp"},
   {"title":"214",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAyeuAN.webp"},
   {"title":"145",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAyeT9p.webp"},
   {"title":"7845",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAyezSR.webp"},
   {"title":"1452",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAyeRtt.webp"},
   {"title":"210",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAye7oX.webp"},
   {"title":"485",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAyeYVn.webp"},
   {"title":"5854",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
+  "photo":"https://iili.io/JAyeaPs.webp"}
    ],
 
    "catego":[
   {"title":" title1 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAyeANI.webp"},
   {"title":" title2 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAyeuAN.webp"},
   {"title":" title3 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAyeT9p.webp"},
   {"title":" title4 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAyezSR.webp"},
   {"title":" title5 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAyeRtt.webp"},
   {"title":" title6 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAye7oX.webp"},
   {"title":" title7 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  "photo":"https://iili.io/JAyeYVn.webp"},
   {"title":" title8 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
+  "photo":"https://iili.io/JAyeaPs.webp"}
    ]
 
 }
